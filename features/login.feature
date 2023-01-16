@@ -12,9 +12,9 @@ Funcionalidade: Login
           """
   
         Exemplos:
-        | email              | senha  |
-        | joao@yahoo.com     | abc123 |
-        |                    | abc123 |
-        | joao@gmail.com     |        |
-        | fulano%hotmail.com | asd123 |
+        | email                    | senha  |
+        | tinhosilva@getnada.com   | abc123 |
+        |                          | abc123 |
+        | joao@gmail.com           |        |
+        | tinhosilva02@getnada.com | asd123 |
       
